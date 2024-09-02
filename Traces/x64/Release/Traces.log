@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\R\Desktop\bartosz scritps\unturned\sources\Traces\main.cpp(249,13): warning C4477: „printf”: ciąg formatu „%S” wymaga argumentu typu „wchar_t *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+  Trwa generowanie kodu
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Traces.vcxproj -> C:\Users\R\Desktop\bartosz scritps\unturned\sources\Traces\x64\Release\Traces.exe
